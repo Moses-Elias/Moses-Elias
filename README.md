@@ -17,7 +17,7 @@ I’m an enthusiastic, detail-oriented developer driven by curiosity, practicali
 
 ---
 
-### 🚀 Projects
+### 🚀 Some of My Projects
 
 - **🔬 K-12 STEM Website** – _Back-End Developer_  
   RESTful API with Node.js & MongoDB Atlas  
