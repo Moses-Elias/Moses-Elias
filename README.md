@@ -113,21 +113,25 @@ Developed mobile application screens using **Kotlin**, focusing on usability and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Moses-Elias&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Moses-Elias&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="Elias Moses GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moses-Elias&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Moses-Elias&theme=radical&hide_border=true" height="170" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 GitHub Activity Overview
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moses-Elias&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moses-Elias&theme=radical" height="180" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moses-Elias&theme=radical" height="180" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Moses-Elias&theme=radical" height="180" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Moses-Elias&theme=radical&utcOffset=2" height="180" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moses-Elias&theme=radical" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moses-Elias&theme=radical" alt="Most Commit Language" />
 </p>
 
 ---
@@ -140,9 +144,7 @@ Developed mobile application screens using **Kotlin**, focusing on usability and
   </a>
 </p>
 
-<p align="center">
-  <a href="https://elias-moses-t.web.app">https://elias-moses-t.web.app</a>
-</p>
+🔗 [https://elias-moses-t.web.app](https://elias-moses-t.web.app)
 
 ---
 
